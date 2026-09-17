@@ -30,8 +30,7 @@ Zero-dependency web security scanner. Single file, pure Python stdlib. Detects C
 `subfinder` `httpx` `nuclei` `katana` `ffuf` `Burp Suite` `curl` `sqlmap` `Python` `Bash`
 
 ## Progress
-- Hacker101 CTF - 37+ points
-- Completed: A Little Something, Micro-CMS v1, Postbook
+- Hacker101 CTF Completed
 - Working through: API security, GraphQL, mobile app testing
 
 ## Contact
